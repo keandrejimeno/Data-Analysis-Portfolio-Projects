@@ -28,7 +28,8 @@ My resume in [pdf form]
 
 ### Contact Info
 Email: keandrejimeno@gmail.com
-[LinkedIn Profile](https://www.linkedin.com/in/keandrejimeno/): Jean Keandre Jimeno
+
+[LinkedIn Profile](https://www.linkedin.com/in/keandrejimeno/)
 
 ## Power BI
 ### Sales Analysis
