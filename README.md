@@ -9,5 +9,7 @@
 ### Contact Info
 
 ## Power BI
+### Sales Analysis
 
 ## Microsoft SQL Server
+### COVID-19 Database Exploration
