@@ -12,12 +12,12 @@ Welcome to my data analytics portfolio! This repository is where I compile and d
     - [Sales Analysis](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#sales-analysis)
   - SQL
     - [COVID-19 Database Exploration](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#covid-19-database-exploration)
-  - STATA
+  - Stata
     - [Determinants of WTP of Household Residents for PV Systems (Research Project)](#determinants-of-wtp-of-household-residents-for-pv-systems-research-project)
 
 ## About me
 
-Hello, my name is Kean! I am a recent graduate with a degree of Bachelor of Science in Economics. I have a strong econometric, analytical, and statistics background, and I am currently looking to be employed in a data analytics role or any related field. 
+Hello, my name is Kean! I am a recent graduate with a Bachelor of Science in Economics degree. I have a strong econometric, analytical, and statistics background and am currently looking to be employed in a data analytics role or any related field. 
 
 I have performed academic research projects during my studies, which highly involved econometric analyses, including panel regressions, bivariate regressions, and time-series analysis, as well as their corresponding diagnostic tests. I also have an internship experience in data analysis and database management working under a region-based government agency. I have completed certifications for Power BI published from Microsoft, and undergone a course in Python for data science from Udemy.
 
@@ -31,9 +31,11 @@ University of San Carlos, Cebu: Bachelor of Science in Economics, 2020 - 2024
 
 ### Certifications
 
-
+- [Microsoft Certified: Power BI Data Analyst Associate](https://github.com/keandrejimeno/SalesAnalysis) (May 2024) (Microsoft)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-36b2304a-7689-43fe-bd07-fd63a9c15613/) (Sep 2022) (Udemy)
 
 ### Contact
+
 Email: [keandrejimeno@gmail.com](keandrejimeno@gmail.com)
 
 LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
@@ -46,18 +48,18 @@ LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
 
 **Goal:**
 
-**Code:**
+**Code:** [Sales Analysis](https://github.com/keandrejimeno/SalesAnalysis)
 
 **Description:**
 
-**Skills:**
+**Skills:** DAX, data cleaning, data analysis, data visualizations, KPIs, RLS
 
-**Technology:**
+**Technology:** Microsoft Power BI
 
 
 [Back to top](#top)
 
-## Microsoft SQL Server
+## SQL
 ### COVID-19 Database Exploration
 
 **Goal:**
@@ -66,14 +68,14 @@ LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
 
 **Description:**
 
-**Skills:**
+**Skills:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
 
-**Technology:**
+**Technology:** Microsoft SQL Server
 
 
 [Back to top](#top)
 
-## STATA
+## Stata
 ### Determinants of WTP of Household Residents for PV Systems (Research Project)
 
 **Goal:**
@@ -82,11 +84,8 @@ LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
 
 **Description:**
 
-**Skills:**
+**Skills:** statistical analysis, regression, hypothesis testing, diagnostic testing, results interpretation
 
-
-[Back to top](#top)
-
-**Technology:**
+**Technology:** StataMP 17
 
 [Back to top](#top)
