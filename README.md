@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/4e76521f-9c6a-41eb-86d7-92d12e8ea7a5)# Portfolio Projects
+# Portfolio Projects
 Welcome to my data analytics portfolio! This repository is where I compile and document my portfolio projects throughout the years learning the data analytics and data science fields. 
 
 ## Table of Contents
-- [About me]
+- [About me] 
   - [Resume]
   - [Education]
   - [Certifications]
