@@ -2,18 +2,18 @@
 Welcome to my data analytics portfolio! This repository is where I compile and document my portfolio projects throughout the years learning the data analytics and data science fields. 
 
 ## Table of Contents
-- [About me] 
-  - [Resume]
-  - [Education]
-  - [Certifications]
-  - [Contact]
-- [Portfolio Projects]
+- [About me](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#about-me)
+  - [Resume](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#resume)
+  - [Education](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#education)
+  - [Certifications](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#certifications)
+  - [Contact](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#contact)
+- Portfolio Projects
   - [Power BI]
-    - [Sales Analysis]
+    - [Sales Analysis](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#sales-analysis)
   - [SQL]
-    - [COVID-19 Database Exploration]
+    - [COVID-19 Database Exploration](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#covid-19-database-exploration)
   - [STATA]
-    - [Determinants of WTP of Household Residents for PV Systems]
+    - [Determinants of WTP of Household Residents for PV Systems (Research Project)](
 
 ## About me
 
@@ -57,6 +57,21 @@ Email: keandrejimeno@gmail.com
 
 ## Microsoft SQL Server
 ### COVID-19 Database Exploration
+
+**Goal:**
+
+**Code:** [COVID-19 Data Query](https://github.com/keandrejimeno/PortfolioProjects/blob/main/COVID19%20Data%20Query.sql)
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+[Back to top](#top)
+
+## STATA
+### Determinants of WTP of Household Residents for PV Systems (Research Project)
 
 **Goal:**
 
