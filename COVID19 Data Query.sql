@@ -18,13 +18,11 @@ FROM [PortfolioProject(Covid)].dbo.CovidVax$
 ORDER BY 3, 4
 
 -- Selects the data that we are going to be using
-
 SELECT location, date, total_cases, new_cases, total_deaths
 FROM CovidDeaths$
 Order by 1,2
 
 --Altering columns to appropriate data types
-
 ALTER TABLE [PortfolioProject(Covid)].dbo.CovidDeaths$
 ALTER COLUMN total_cases float
 
@@ -46,7 +44,6 @@ ALTER COLUMN new_deaths float
 
 
 -- Gives death rate in relation to total cases
-
 SELECT location, date, total_cases, new_cases, total_deaths, CONVERT(float,(total_deaths/total_cases)*100) as death_rate
 FROM CovidDeaths$
 Order by 1,2
@@ -63,11 +60,10 @@ Order by 1,2 DESC
 
 
 -- Gives infection rate in proportion to population
-
 SELECT location, date, total_cases, new_cases, total_deaths, population, CONVERT(float,(total_cases/population)*100) as infection_rate
 FROM CovidDeaths$
 Order by 1,2
--- For specific countries (exact names not needed)
+--- For specific countries (exact names not needed)
 SELECT location, date, total_cases, new_cases, total_deaths, population, CONVERT(float,(total_cases/population)*100) as infection_rate
 FROM CovidDeaths$
 Where location like '%philippines%'
@@ -99,7 +95,7 @@ Group by date
 Order by 1
 
 
--- Gives the new daily records of cases and deaths around the world
+-- Gives new daily records of cases and deaths around the world
 SELECT date, sum(new_cases) as daily_cases,sum(new_deaths) as daily_deaths, 
 (sum(total_cases) + sum(total_deaths)) as total_cases, sum(total_deaths) as total_deaths,
 (SUM(total_deaths)/(sum(total_cases) + sum(total_deaths))*100) as death_rate
@@ -110,7 +106,6 @@ Order by 1
 
 
 -- Gives the daily vaccinations recorded and the country's rolling sum of vaccinations overtime
-
 SELECT dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations,
 SUM(CONVERT(float,vac.new_vaccinations)) OVER 
 	(Partition by dea.location order by dea.location, dea.date) as rolling_vaccinations
@@ -141,7 +136,6 @@ Select *, (rolling_vaccinations/population)*100 as vaccination_rate
 From VaxOverPop
 
 -- in Temp Tables
-
 DROP Table if exists #VaxRate
 CREATE Table #VaxRate
 (
@@ -168,8 +162,7 @@ FROM #VaxRate
 Order by Vaccination_rate DESC
 
 
--- Gives the highest vaccination rates recorded in each country with their occurring time periods recorded
-
+-- Gives the highest vaccination rates recorded in each country with their occurring periods recorded
 With #HighestVaxRates as
 (
 SELECT location, MAX(Rolling_vaccinations) as Highest_vaccinations, 
@@ -185,5 +178,5 @@ JOIN #VaxRate as rate
 	AND high.Location = rate.location
 GROUP BY high.Location
 ORDER BY high.location 
----Vax rates occurring more than 100% means there is an occurrance of booster vaccinations
+---Vax rates occurring more than 100% means there is an occurrence of booster vaccinations
 ---Min_date where the highest rate is earliest recorded, Max_date where the latest recorded
