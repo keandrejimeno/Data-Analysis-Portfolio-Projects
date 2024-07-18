@@ -88,7 +88,7 @@ Order by 3 DESC
 
 -- Gives the total cases, total deaths, and death rate in relation to total infected around the world
 SELECT date, (sum(total_cases) + sum(total_deaths)) as total_cases, sum(total_deaths) as total_deaths, 
-(SUM(total_deaths)/(sum(total_cases) + sum(total_deaths))*100) as death_rate --total cases get deducted when case dies. it is more accurate to include the cases that died to calculate for death rate.
+(SUM(total_deaths)/(sum(total_cases) + sum(total_deaths))*100) as death_rate --total cases get deducted when the case dies. it is more accurate to include the cases that died to calculate for death rate.
 FROM CovidDeaths$
 Where continent is not null --selects only countries, not country groups
 Group by date
@@ -105,7 +105,7 @@ Group by date
 Order by 1
 
 
--- Gives the daily vaccinations recorded and the country's rolling sum of vaccinations overtime
+-- Gives the daily vaccinations recorded and the country's rolling sum of vaccinations over time
 SELECT dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations,
 SUM(CONVERT(float,vac.new_vaccinations)) OVER 
 	(Partition by dea.location order by dea.location, dea.date) as rolling_vaccinations
@@ -118,8 +118,7 @@ Order by 1,2
 
 
 
--- Compresses the column and use to find ratio of vaccinated to population
-
+-- Compresses the column and uses it to find the ratio of vaccinated to population
 With VaxOverPop (continent, location, date, population, new_vaccinations, rolling_vaccinations)
 as
 (
