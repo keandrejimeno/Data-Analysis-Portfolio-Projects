@@ -17,7 +17,7 @@ Welcome to my data analytics portfolio! This repository is where I compile and d
 
 ## About me
 
-Hello, my name is Kean! I am a recent graduate with a Bachelor of Science in Economics degree. I have a strong econometric, analytical, and statistics background, and I am currently looking to be employed in a data analytics role or any related field. 
+Hello, my name is Kean! I am a recent graduate with a degree of Bachelor of Science in Economics. I have a strong econometric, analytical, and statistics background, and I am currently looking to be employed in a data analytics role or any related field. 
 
 I have performed academic research projects during my studies, which highly involved econometric analyses, including panel regressions, bivariate regressions, and time-series analysis, as well as their corresponding diagnostic tests. I also have an internship experience in data analysis and database management working under a region-based government agency. I have completed certifications for Power BI published from Microsoft, and undergone a course in Python for data science from Udemy.
 
@@ -27,16 +27,16 @@ My resume in [pdf form]
 
 ### Education
 
-
+University of San Carlos, Cebu: Bachelor of Science in Economics, 2020 - 2024
 
 ### Certifications
 
 
 
 ### Contact
-Email: keandrejimeno@gmail.com 
+Email: [keandrejimeno@gmail.com](keandrejimeno@gmail.com)
 
-[LinkedIn Profile](https://www.linkedin.com/in/keandrejimeno/)
+LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
 
 
 [Back to top](#top)
