@@ -80,7 +80,7 @@ LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
 
 **Goal:**
 
-**Code:**
+**Code:** [Estimating Determinants of WTP](https://github.com/keandrejimeno/PortfolioProjects/blob/main/Estimating%20Determinants%20of%20WTP.do)
 
 **Description:**
 
