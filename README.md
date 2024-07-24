@@ -29,7 +29,7 @@ Hello, my name is Kean! I am a recent graduate with a Bachelor of Science in Eco
 
 In my time at college, I have performed academic research projects during my studies, which highly involved econometric analyses, including panel regressions, bivariate regressions, and time-series analysis, as well as their corresponding diagnostic tests. I also have an internship experience in data analysis and database management working under a region-based government agency. I have completed certifications for Power BI published from Microsoft, and undergone a course in Python for data science from Udemy.
 
-Committed to my pursuit in a career in data analytics and more complex fields like data science, data engineering or perhaps a master's in Economics, I continuously upskill from the fundamentals of statistics to the latest technologies commonly used in today's industry. Other than learning more about data analystics and other fields, I spend the rest of my free time playing video games (mostly [grand strategy or "*map-staring* games](https://www.google.com/search?q=grand+strategy+games), watching my favorite channels and streamers in YouTube and Twitch, and learning new cooking recipes.
+Committed to my pursuit of a career in data analytics and more complex fields like data science, data engineering, or perhaps a master's in Economics, I continuously upskill from the fundamentals of statistics to the latest technologies commonly used in today's industry. Other than learning more about data analysis and other fields, I spend the rest of my free time playing video games (mostly [grand strategy or "*map-staring* games](https://www.google.com/search?q=grand+strategy+games), watching my favorite channels and streamers in YouTube and Twitch, and learning new cooking recipes.
 
 ### Resume
 
@@ -60,7 +60,7 @@ LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
 
 **Code:** [Sales Analysis](https://github.com/keandrejimeno/SalesAnalysis)
 
-**Description:** The databases includes lists of sales records including sale and order information (order id, quantity, number of orders, product category, salesperson assigned, location of resellers sold to). The project includes transforming the data, preparing measures and calculated columns, designing the model relationships, and generating interactive reports. The project then presents highlights and interpretations based on fundamental understanding of business operations.
+**Description:** The database includes lists of sales records including sale and order information (order id, quantity, number of orders, product category, salesperson assigned, and location of resellers sold to). The project includes transforming the data, preparing measures and calculated columns, designing the model relationships, and generating interactive reports. The project then presents highlights and interpretations based on a fundamental understanding of business operations.
 
 **Skills:** DAX, data cleaning, data analysis, data visualizations, KPIs, RLS
 
@@ -76,7 +76,7 @@ LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
 
 **Code:** [COVID-19 Data Query](https://github.com/keandrejimeno/PortfolioProjects/blob/main/COVID19%20Data%20Query.sql)
 
-**Description:** The data is sourced from the World Health Organization (WHO) which tracked and recorded daily metrics related to the COVID-19 pandemic, including infection cases, deaths, tests and vaccinations, and other socioeconomic metrics, such as population. It includes 255 locations including countries and autonomous territories, and spans from 01-01-2020 to 10-16-2023. The code explores the data, select relevant metrics, perform calculated metrics including infection rates, death rates and vaccination rates in proportion to the population, and highlighting events such as the earliest time the country vaccinated and their highest vaccination rate.
+**Description:** The data is sourced from the World Health Organization (WHO) which tracked and recorded daily metrics related to the COVID-19 pandemic, including infection cases, deaths, tests and vaccinations, and other socioeconomic metrics, such as population. It includes 255 locations including countries and autonomous territories, and spans from 01-01-2020 to 10-16-2023. The code explores the data, selects relevant metrics, performs calculated metrics including infection rates, death rates and vaccination rates in proportion to the population, and highlights events such as the earliest time the country was vaccinated and their highest vaccination rate.
 
 **Skills:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
 
