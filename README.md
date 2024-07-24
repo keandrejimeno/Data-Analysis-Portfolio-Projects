@@ -1,4 +1,4 @@
-# Jean Keandre Jimeno Data Analysis Portfolio
+# Jean Keandre Jimeno - Data Analysis Portfolio
 Welcome to my data analytics portfolio! This repository is where I compile and document my portfolio projects throughout the years learning the data analytics and data science fields. 
 
 ## Table of Contents
