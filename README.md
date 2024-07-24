@@ -3,17 +3,25 @@ Welcome to my data analytics portfolio! This repository is where I compile and d
 
 ## Table of Contents
 - [About me](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#about-me)
+  
   - [Resume](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#resume)
+
   - [Education](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#education)
+
   - [Certifications](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#certifications)
+
   - [Contact](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#contact)
+
 - Portfolio Projects
+
   - Power BI
     - [Sales Analysis](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#sales-analysis)
+
   - SQL
     - [COVID-19 Database Exploration](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#covid-19-database-exploration)
+
   - Stata
-    - [Determinants of WTP of Household Residents for PV Systems (Research Project)](#determinants-of-wtp-of-household-residents-for-pv-systems-research-project)
+     - [Determinants of WTP of Household Residents for PV Systems (Research Project)](#determinants-of-wtp-of-household-residents-for-pv-systems-research-project)
 
 ## About me
 
