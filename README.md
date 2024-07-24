@@ -46,7 +46,7 @@ University of San Carlos, Cebu: Bachelor of Science in Economics, 2020 - 2024
 
 ### Contact
 
-Email: [keandrejimeno@gmail.com](keandrejimeno@gmail.com)
+Email: [keandrejimeno@gmail.com](mailto:keandrejimeno@gmail.com)
 
 LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
 
